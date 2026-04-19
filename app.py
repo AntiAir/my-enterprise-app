@@ -34,7 +34,7 @@ def index():
     html = """
     <html>
         <body>
-            <h1>OpenShift 互動留言板</h1>
+            <h1>OpenShift 互動測測測留言板</h1>
             <form method="POST">
                 <input type="text" name="message" placeholder="輸入想hello hello 說的話..." required>
                 <button type="submit">送出資料</button>
