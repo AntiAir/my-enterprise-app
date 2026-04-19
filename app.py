@@ -36,7 +36,7 @@ def index():
         <body>
             <h1>OpenShift 互動留言板</h1>
             <form method="POST">
-                <input type="text" name="message" placeholder="輸入想說的話..." required>
+                <input type="text" name="message" placeholder="輸入想hello hello 說的話..." required>
                 <button type="submit">送出資料</button>
             </form>
             <hr>
